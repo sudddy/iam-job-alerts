@@ -1,0 +1,4 @@
+# Board slugs are best guesses; wrong ones are skipped with a log line. Verify and edit.
+greenhouse: [okta, pingidentity, socure, trulioo, veriff, transmitsecurity, brex]
+lever: [saviynt, strivacity]
+ashby: [descope, stytch, workos, clerk, persona]
